@@ -1,0 +1,5 @@
+export default {
+  PACK_PENDING: 'PACK_PENDING',
+  PACK_SUCCESS: 'PACK_SUCCESS',
+  PACK_ERROR: 'PACK_ERROR'
+};
